@@ -20,5 +20,8 @@
     "nanoid": "^3.1.22",
     "nodemailer": "^6.5.0",
     "validator": "^13.5.2"
+  },
+  "engines": {
+    "node": "14.20.1"
   }
 }
