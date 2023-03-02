@@ -33,7 +33,3 @@ app.listen(port, () => console.log(`listening on port : ${port}`));
 app.get('/', (req, res) => {
     res.send("Welcome to QuestionsOverflow");
 })
-
-
-
-// "bcrypt": "^5.0.1",
