@@ -37,4 +37,3 @@ app.get('/', (req, res) => {
 
 
 // "bcrypt": "^5.0.1",
-// "mongoose": "^5.12.0",
